@@ -1,0 +1,151 @@
+[{
+        "question": "Gambar dibawah ini, merupakan gambar dari perangkat keras yang bernama?",
+        "imageUrl": "https://i.postimg.cc/CLpkFb1B/power-supply.jpg",
+        "one": "VGA",
+        "two": "Power supply",
+        "three": "Motherboard",	
+        "four": "CPU",
+        "correctAnswer": 2,
+        "userAnswer": 0
+    },
+    {
+        "question": "Perhatikan gambar di bawah.gambar tersebut adalah adalah?",
+        "imageUrl": "https://i.postimg.cc/7ZkhM6p9/ik-3.jpg",
+        "one": "Use Case Diagram",
+        "two": "Component Diagram",
+        "three": "Collaboration Diagram",
+        "four": "Deployment Diagram",
+        "correctAnswer": 1,
+        "userAnswer": 0
+    },
+    {
+        "question": "Gambar di bawah ini merupakan jaringan berbasis?",
+        "imageUrl": "https://i.postimg.cc/Xq1hNp9b/Metropolitan-Area-Network-MAN.jpg",
+        "one": "WAN",
+        "two": "LAN",
+        "three": "MAN",
+        "four": "Internet",
+        "correctAnswer": 3,
+        "userAnswer": 0
+    },
+    {
+        "question": "Topologi yang digunakan pada jaringan di bawah ini adalah?",
+        "imageUrl": "https://i.postimg.cc/jSfs9br5/post-image-1620618338463.jpg",
+        "one": "Topologi Peer to Peer",
+        "two": "Topologi Star",
+        "three": "Topologi Bus",
+        "four": "Topologi Tree",
+        "correctAnswer": 2,
+        "userAnswer": 0
+    },
+    {
+        "question": "Gambar di bawah ini merupakan sebuah hardware yang biasa digunakan untuk menyimpan data di sebuah komputer atau laptop,gambar tersebut adalah?",
+        "imageUrl": "https://i.postimg.cc/1zPfrtNP/pengertian-harddisk-inarticle.jpg",
+        "one": "Hard disk",
+        "two": "Hardware",
+        "three": "Memori",
+        "four": "Flashdisk",
+        "correctAnswer": 1,
+        "userAnswer": 0
+    },
+    {
+        "question": "Topologi mana yang merupakan gabungan dari topologi star dengan topologi bus?",
+        "imageUrl": "https://i.postimg.cc/CLnKgfLn/Topologi-Tree.jpg",
+        "one": "Topologi Star",
+        "two": "Topologi Tree",
+        "three": "Topologi Mesh",
+        "four": "Topologi Bus",
+        "correctAnswer": 2,
+        "userAnswer": 0
+    },
+    {
+        "question": "Berikut adalah area pada jaringan komputer,kecuali?",
+        "imageUrl": "https://i.postimg.cc/W3snRvGt/image.png",
+        "one": "CAN",
+        "two": "WAN",
+        "three": "PAN",
+        "four": "LAN",
+        "correctAnswer": 1,
+        "userAnswer": 0
+    },
+    {
+        "question": "Gambar dibawah ini yang merupakan permasalahan umum dari perangkat keras pada gambar adalah tampilan gambar kacau (seprti semut berwarna warni) dan kasar adalah?",
+        "imageUrl": "https://i.postimg.cc/qM53FM1D/vga-card.jpg",
+        "one": "CPU",
+        "two": "ROM",
+        "three": "RAM",
+        "four": "VGA Card",
+        "correctAnswer": 4,
+        "userAnswer": 0
+    },
+    {
+        "question": "Gambar di bawah ini merupakan regulator. Fungsi dari regulator adalah?",
+        "imageUrl": "https://i.postimg.cc/FKDmP1Z7/regulator.jpg",
+        "one": "Mengatur tegangan output dan menyeimbangkan aliran",
+        "two": "Mengatur output tegangan yang dimasukkan alternator agar stabil",
+        "three": "Untuk menyeimbangkan tegangan",
+        "four": "Mengatur tegangan input dan tegangan output",
+        "correctAnswer": 1,
+        "userAnswer": 0
+    },
+    {
+        "question": "Perangkat keras komputer di bawah ini merupakan CPU yang mempunyai kepanjangan??",
+        "imageUrl": "https://i.postimg.cc/GtkbxKS1/cpu.jpg",
+        "one": "Central Program Unit",
+        "two": "Central Processing Unit",
+        "three": "Centra Primary Unit",
+        "four": "Control Processing Unit",
+        "correctAnswer": 2,
+        "userAnswer": 0
+    },
+    {
+        "question": "Perangkat yang berfungsi mengatur pemilihan jalur terbaik untuk dilewati paket data dikenal sebagai?.",
+        "imageUrl": "https://i.postimg.cc/C5ww9Ysv/image.png",
+        "one": "Proxy Server",
+        "two": "Switch",
+        "three": "Router",
+        "four": "Web Server",
+        "correctAnswer": 3,
+        "userAnswer": 0
+    },
+    {
+        "question": "Pengguna melaporkan bahwa akses jaringan lambat setelah karyawan mengunduh program pemindaian pihak ketiga untuk printer. Jenis malware apa yang mungkin diperkenalkan yang menyebabkan?",
+        "imageUrl": "https://i.postimg.cc/yxhhL6pL/image.png",
+        "one": "Virus",
+        "two": "Spam",
+        "three": "Trojan",
+        "four": "Worm",
+        "correctAnswer": 4,
+        "userAnswer": 0
+    },
+    {
+        "question": "Fungsi switch adalah melakukan bridging transparan sebagai penghubung segmentasi dari banyak jaringan dengan memforward berdasarkan?.",
+        "imageUrl": "https://i.postimg.cc/fTrJStKD/image.png",
+        "one": "MAC Address",
+        "two": "Sinyal",
+        "three": "IP Address",
+        "four": "IPsec",
+        "correctAnswer": 1,
+        "userAnswer": 0
+    },
+    {
+        "question": "Terciptanya internet dimulai dari sebuah proyek penelitian, yaitu?",
+        "imageUrl": "https://i.postimg.cc/qBhhG76w/image.png",
+        "one": "RPPANET",
+        "two": "INDONET",
+        "three": "ARPANET",
+        "four": "FELISIANET",
+        "correctAnswer": 3,
+        "userAnswer": 0
+    },
+    {
+        "question": "Konsep sistem tertanam terdiri dari beberapa titik yang terhubung ke dalam jaringan?",
+        "imageUrl": "https://i.postimg.cc/MT304rzQ/image.png",
+        "one": "Standalone",
+        "two": "Distributed",
+        "three": "Semi-Distributed",
+        "four": "Hard Realtime",
+        "correctAnswer": 2,
+        "userAnswer": 0
+    }
+]
